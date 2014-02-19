@@ -1,0 +1,15 @@
+
+h1 {
+  color: red;
+  text-decoration: underline;
+}
+
+table {
+  width: 200px;
+  margin: 25px auto;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+table td { border: 1px solid black; }
+
